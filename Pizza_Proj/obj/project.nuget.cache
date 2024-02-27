@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MrkFr7jHYeJhxNHZG4F1JPODm2wF6nCTacwTzsVyLah9b/E01HNHre/SkpwV5e+Ap/ar7UeeuvcT1sEDdgp4ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Documents\\Testing\\Pizza Portal\\Pizza_Proj\\Pizza_Proj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
